@@ -1,14 +1,8 @@
-# TSN_DEMO_05_Map
+# EVA06_LAB5
 Работа с картами Google
 
-![Screenshot](screenshot1.png)
+![Screenshot](scrn1.png)
 
-![Screenshot](screenshot2.png)
+![Screenshot](scrn2.png)
 
-![Screenshot](screenshot3.jpg)
-
-https://console.cloud.google.com/google/maps-apis/apis
-
-https://www.google.com/maps
-
-https://www.youtube.com/watch?v=H5NRoTIrmjw
+![Screenshot](scrn3.png)
